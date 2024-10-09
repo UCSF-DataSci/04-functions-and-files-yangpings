@@ -22,4 +22,4 @@ Write a program that takes a number as an argument, finds the *Fibonacci* number
 - Implement a function to check if a number is prime
 - Import and use the Fibonacci generating function from problem 1 as a module
  
-**Task: Find the largest prime Fibonacci number less that 50000**
+**Task: Find the largest prime Fibonacci number less than 50000**
